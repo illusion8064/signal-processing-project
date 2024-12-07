@@ -84,7 +84,7 @@ Project_LouderWordsDetection/
 - **Priyanshi Jain**  
 - **Valli G.**
 - **Ritama Sanyal**
-- 
+
 Feel free to contact me for queries or collaborations.
 
 ---
