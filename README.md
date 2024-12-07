@@ -1,9 +1,3 @@
-# signal-processing-project (monsoon 24)
-This repository contains implementation of three signal processing tasks completed as part of the Signal Processing course in Monsoon 2024. Each task involves analyzing different types of signals to extract meaningful insights.
-
-
-Here is a `README.md` file for your GitHub repository based on the projects described:
-
 ---
 
 # Signal Processing Projects (Monsoon 2024)
