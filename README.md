@@ -62,18 +62,6 @@ Project_LouderWordsDetection/
 
 ---
 
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SignalProcessingProjects.git
-   cd SignalProcessingProjects
-   ```
-2. Navigate to the desired project folder and follow the instructions in the respective `Scripts` folder.
-
-3. Make sure the task files and the reference files are in the desired folder.
-
----
-
 ## Tools and Libraries
 - MATLAB
 - Signal processing toolkits for audio and ECG analysis.
